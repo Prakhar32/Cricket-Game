@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{349CBAD9-C266-3184-FE67-B2AC6B23941B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{FF711F0F-51C1-55CB-714E-FE394CA8FBE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotaryHeart", "RotaryHeart.csproj", "{622E4A36-3899-59A6-420C-4F9AF9D137ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{349CBAD9-C266-3184-FE67-B2AC6B23941B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{349CBAD9-C266-3184-FE67-B2AC6B23941B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{349CBAD9-C266-3184-FE67-B2AC6B23941B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{349CBAD9-C266-3184-FE67-B2AC6B23941B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF711F0F-51C1-55CB-714E-FE394CA8FBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF711F0F-51C1-55CB-714E-FE394CA8FBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF711F0F-51C1-55CB-714E-FE394CA8FBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF711F0F-51C1-55CB-714E-FE394CA8FBE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622E4A36-3899-59A6-420C-4F9AF9D137ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622E4A36-3899-59A6-420C-4F9AF9D137ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622E4A36-3899-59A6-420C-4F9AF9D137ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622E4A36-3899-59A6-420C-4F9AF9D137ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
